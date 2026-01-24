@@ -1,0 +1,36 @@
+West Bengal https://sachet.ndma.gov.in/cap_public_website/rss/rss_west.xml
+Uttar Pradesh https://sachet.ndma.gov.in/cap_public_website/rss/rss_uttar.xml
+Utrakhand https://sachet.ndma.gov.in/cap_public_website/rss/rss_uttarakhand.xml
+Tripura https://sachet.ndma.gov.in/cap_public_website/rss/rss_tripura.xml
+Telengana https://sachet.ndma.gov.in/cap_public_website/rss/rss_telangana.xml
+Tamil nadu https://sachet.ndma.gov.in/cap_public_website/rss/rss_tamil.xml
+Sikkim https://sachet.ndma.gov.in/cap_public_website/rss/rss_sikkim.xml
+Rajasthan https://sachet.ndma.gov.in/cap_public_website/rss/rss_rajasthan.xml
+Punjab https://sachet.ndma.gov.in/cap_public_website/rss/rss_punjab.xml
+Puducherry https://sachet.ndma.gov.in/cap_public_website/rss/rss_puducherry.xml
+Odisha https://sachet.ndma.gov.in/cap_public_website/rss/rss_odisha.xml
+Nagaland https://sachet.ndma.gov.in/cap_public_website/rss/rss_nagaland.xml
+Mizoram https://sachet.ndma.gov.in/cap_public_website/rss/rss_mizoram.xml
+Meghalaya https://sachet.ndma.gov.in/cap_public_website/rss/rss_meghalaya.xml
+Manipur https://sachet.ndma.gov.in/cap_public_website/rss/rss_manipur.xml
+Maharastra https://sachet.ndma.gov.in/cap_public_website/rss/rss_maharashtra.xml
+Madhaya pradesh https://sachet.ndma.gov.in/cap_public_website/rss/rss_madhya.xml
+Lakshdeep https://sachet.ndma.gov.in/cap_public_website/rss/rss_lakshadweep.xml
+Ladak https://sachet.ndma.gov.in/cap_public_website/rss/rss_ladakh.xml
+Kerala https://sachet.ndma.gov.in/cap_public_website/rss/rss_kerala.xml
+Karnataka https://sachet.ndma.gov.in/cap_public_website/rss/rss_karnataka.xml
+Jharkhand https://sachet.ndma.gov.in/cap_public_website/rss/rss_jharkhand.xml
+Jammu & kashmir https://sachet.ndma.gov.in/cap_public_website/rss/rss_jammu.xml
+Himachal Pradesh https://sachet.ndma.gov.in/cap_public_website/rss/rss_himachal.xml
+Haryana https://sachet.ndma.gov.in/cap_public_website/rss/rss_haryana.xml
+Gujrat https://sachet.ndma.gov.in/cap_public_website/rss/rss_gujarat.xml
+Goa https://sachet.ndma.gov.in/cap_public_website/rss/rss_goa.xml
+Delhi https://sachet.ndma.gov.in/cap_public_website/rss/rss_delhi.xml
+dadra and nagar haveli https://sachet.ndma.gov.in/cap_public_website/rss/rss_dadra.xml
+Chattisgarh https://sachet.ndma.gov.in/cap_public_website/rss/rss_chhattisgarh.xml
+Chandigarh https://sachet.ndma.gov.in/cap_public_website/rss/rss_chandigarh.xml
+Bihar https://sachet.ndma.gov.in/cap_public_website/rss/rss_bihar.xml
+Assam https://sachet.ndma.gov.in/cap_public_website/rss/rss_assam.xml
+Arunachal Pradesh https://sachet.ndma.gov.in/cap_public_website/rss/rss_arunachal.xml
+Andhra Pradesh https://sachet.ndma.gov.in/cap_public_website/rss/rss_andhra.xml
+Andaman and Nicobar island https://sachet.ndma.gov.in/cap_public_website/rss/rss_andaman.xml
